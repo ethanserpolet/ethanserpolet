@@ -1,0 +1,4 @@
+- 👋 Hi, I’m iShynss / Ethan Serpolet
+- 👀 I’m interested in Games, Cinema, Music, Sport
+- 🌱 I’m currently learning PHP, HTML, CSS & Java
+- 📫 How to reach me (Discord: iShynss#2567)
